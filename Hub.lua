@@ -20,9 +20,9 @@ local Window = Rayfield:CreateWindow({
       Subtitle = "Key System",
       Note = "Key System Copiada 3x mais longa",
       FileName = "Durk2files", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
-      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      SaveKey = false, -- The user's key will be saved, but if you change the key, they will be unable to use your script
       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-      Key = {"https://raw.githubusercontent.com/qfbteam/Dog_Lol/refs/heads/main/Key/key.txt", "@dog_lolperm"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+      Key = {"https://raw.githubusercontent.com/Lucashgdhhyy/Dog_Lol2.0/refs/heads/main/key/freekey.txt", "https://raw.githubusercontent.com/Lucashgdhhyy/Dog_Lol2.0/refs/heads/main/key/permkey.txt"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
 
