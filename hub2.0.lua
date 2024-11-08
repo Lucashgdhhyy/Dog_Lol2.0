@@ -7,4 +7,4 @@ local Clogs = Window:MakeTab({
 	PremiumOnly = false
 })
 Clogs:AddLabel("Bugs Fix")
-
+Clogs:AddParagraph("Beta v0.2","Fixing the color and hub ui")
